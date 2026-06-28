@@ -3,6 +3,15 @@
 «Projeto desenvolvido como parte do desafio da Digital Innovation One (DIO) utilizando o NotebookLM como ferramenta de aprendizagem ativa baseada em Inteligência Artificial.»
 
 ---
+🔗 Acesso ao Caderno Temático
+
+NotebookLM (Projeto Completo)
+
+Link do NotebookLM:
+
+https://notebooklm.google.com/notebook/280a9790-3408-4542-8ee3-e6668572e2ae?utm_source=nlmm_share
+
+---
 
 📑 Índice
 
